@@ -3,3 +3,4 @@ ItemID,ItemName,Category,Quantity,UnitPrice,Status
 102,Monitors 27inch,Hardware,40,220.00,In Stock
 103,Ergonomic Chairs,Furniture,15,180.00,Low Stock
 104,Software Licenses,IT,100,50.00,Active
+105,Laptops Stand,Accessories,50,25.00,In Stock
