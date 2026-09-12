@@ -1,0 +1,5 @@
+ItemID,ItemName,Category,Quantity,UnitPrice,Status
+101,Dell Laptops,Hardware,25,850.00,In Stock
+102,Monitors 27inch,Hardware,40,220.00,In Stock
+103,Ergonomic Chairs,Furniture,15,180.00,Low Stock
+104,Software Licenses,IT,100,50.00,Active
